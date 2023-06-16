@@ -6,3 +6,9 @@ Untitled*
 *dev*
 *cache*
 *backup*
+node_modules
+.prettier*
+package.json
+pnpm-lock.yaml
+*.drawio.svg
+package-lock.json
